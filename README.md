@@ -4,6 +4,8 @@
 
 本项目基于[该项目](https://github.com/ckkelvinchan/RealBasicVSR)实现，未做改动，仅使用自己的数据进行效果测试，用于数字人高清修复。
 
+（视频超分对于显存要求极高，8G显存只能带动几秒钟的短视频demo_001.mp4）
+
 
 
 ## News
